@@ -26,10 +26,12 @@ Dataset yang digunakan: https://www.kaggle.com/datasets/gregorut/videogamesales
 A_UAS_PrakVisDat_Klp5/
 │
 ├── data/
-│   ├── raw/
-│   │   └── video_game_sales.csv
-│   └── processed/
-│       
+│   ├── processed/
+│   │   └── video_game_sales_clean.csv
+│   │ 
+│   └── raw/
+│       └── video_game_sales.csv
+│ 
 ├── notebooks/
 │   ├── eda.ipynb
 │   └── preprocessing.ipynb
